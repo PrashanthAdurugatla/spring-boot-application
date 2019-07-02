@@ -1,3 +1,3 @@
-# springMVC-rest-api
+# spring-boot-application
 
-Create a simple Spring MVC rest-api example using Maven and Annotations
+An end to end Spring Boot Application which has RESTful api's
