@@ -65,8 +65,14 @@
           <version>2.9.2</version>
       </dependency>
 
+      <!--Used Prostgresql on Heroku-->
+      <dependency>
+          <groupId>postgresql</groupId>
+          <artifactId>postgresql</artifactId>
+          <version>9.1-901-1.jdbc4</version>
+      </dependency>
 
-
+     <!--Used MySQL when Application Runned on Local-->
       <dependency>
           <groupId>mysql</groupId>
           <artifactId>mysql-connector-java</artifactId>
